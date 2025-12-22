@@ -1,0 +1,14 @@
+{
+  "name": "consultant",
+  "owner": {
+    "name": "yoichiojima-2"
+  },
+  "plugins": [
+    {
+      "name": "consulting",
+      "source": ".",
+      "description": "50+ consulting frameworks from McKinsey, BCG, Bain, and Accenture",
+      "version": "1.0.0"
+    }
+  ]
+}
