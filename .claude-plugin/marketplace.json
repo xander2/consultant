@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "consulting",
-      "source": ".plugins/consultant",
+      "source": "./plugins/consultant",
       "description": "consulting frameworks",
       "version": "1.0.0"
     }
